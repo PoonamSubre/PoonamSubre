@@ -91,7 +91,6 @@ class PoonamSubre:
 ## `> stats`
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PoonamSubre&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&icon_color=c792ea&text_color=a9b1d6&ring_color=c792ea" height="170"/>
 <img src="https://streak-stats.demolab.com/?user=PoonamSubre&theme=tokyonight&hide_border=true&background=0d1117&ring=c792ea&fire=ff9e64&currStreakLabel=c792ea" height="170"/>
 </div>
 
