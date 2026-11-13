@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Poonam Subre, AI / ML Engineer">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b0a1f"/><stop offset="0.6" stop-color="#231f52"/><stop offset="1" stop-color="#3a2f7a"/></linearGradient>
+<radialGradient id="moon"><stop offset="0" stop-color="#fff8e1"/><stop offset="1" stop-color="#ffe9a8"/></radialGradient>
+<clipPath id="r"><rect width="1200" height="300" rx="14"/></clipPath>
+</defs>
+<style>
+.s{fill:#fff;animation:tw 4s ease-in-out infinite}.s1{animation-delay:1.3s}.s2{animation-delay:2.6s}
+@keyframes tw{0%,100%{opacity:.25}50%{opacity:1}}
+.t{opacity:0;animation:cy 12s infinite}.t2{animation-delay:4s}.t3{animation-delay:8s}
+@keyframes cy{0%{opacity:0}4%{opacity:1}29%{opacity:1}33%{opacity:0}100%{opacity:0}}
+.trail{stroke-dasharray:4 7;animation:mv 3s linear infinite}@keyframes mv{to{stroke-dashoffset:-22}}
+</style>
+<g clip-path="url(#r)">
+<rect width="1200" height="300" fill="url(#sky)"/>
+<circle class="s s0" cx="673" cy="46" r="1.6"/><circle class="s s1" cx="108" cy="26" r="0.8"/><circle class="s s2" cx="758" cy="22" r="1"/><circle class="s s0" cx="86" cy="30" r="1.6"/><circle class="s s1" cx="866" cy="25" r="1"/><circle class="s s2" cx="195" cy="149" r="1.6"/><circle class="s s0" cx="131" cy="39" r="1"/><circle class="s s1" cx="136" cy="109" r="0.8"/><circle class="s s2" cx="462" cy="19" r="1"/><circle class="s s0" cx="603" cy="115" r="1"/><circle class="s s1" cx="1117" cy="38" r="1.2"/><circle class="s s2" cx="1157" cy="54" r="0.8"/><circle class="s s0" cx="1179" cy="56" r="1.2"/><circle class="s s1" cx="209" cy="148" r="0.8"/><circle class="s s2" cx="1165" cy="23" r="1"/><circle class="s s0" cx="1026" cy="144" r="1.6"/><circle class="s s1" cx="653" cy="127" r="1.6"/><circle class="s s2" cx="750" cy="84" r="1"/><circle class="s s0" cx="378" cy="70" r="0.8"/><circle class="s s1" cx="1186" cy="84" r="1.6"/><circle class="s s2" cx="713" cy="122" r="1.2"/><circle class="s s0" cx="159" cy="38" r="1.6"/><circle class="s s1" cx="347" cy="95" r="1"/><circle class="s s2" cx="1011" cy="115" r="0.8"/><circle class="s s0" cx="168" cy="150" r="1.2"/><circle class="s s1" cx="706" cy="97" r="1.6"/><circle class="s s2" cx="944" cy="25" r="0.8"/><circle class="s s0" cx="562" cy="129" r="0.8"/><circle class="s s1" cx="134" cy="87" r="1.6"/><circle class="s s2" cx="592" cy="106" r="1.2"/><circle class="s s0" cx="56" cy="126" r="1.2"/><circle class="s s1" cx="354" cy="37" r="1.6"/><circle class="s s2" cx="130" cy="63" r="1.2"/><circle class="s s0" cx="274" cy="71" r="1.6"/><circle class="s s1" cx="810" cy="135" r="0.8"/><circle class="s s2" cx="350" cy="122" r="1.6"/><circle class="s s0" cx="1135" cy="79" r="1"/><circle class="s s1" cx="891" cy="148" r="1.2"/><circle class="s s2" cx="860" cy="99" r="1.6"/><circle class="s s0" cx="482" cy="46" r="0.8"/><circle class="s s1" cx="370" cy="46" r="1"/><circle class="s s2" cx="487" cy="11" r="1.6"/><circle class="s s0" cx="383" cy="75" r="1.2"/><circle class="s s1" cx="18" cy="45" r="1.6"/><circle class="s s2" cx="1104" cy="102" r="1.2"/><circle class="s s0" cx="267" cy="139" r="0.8"/>
+<circle cx="1085" cy="58" r="40" fill="#ffe9a8" opacity=".08"/><circle cx="1085" cy="58" r="20" fill="url(#moon)"/>
+<polygon fill="#2e2a6b" points="0,300 0,235 140,205 260,230 400,190 520,225 660,150 760,200 880,95 990,180 1080,130 1200,185 1200,300"/>
+<polygon fill="#ecebff" opacity=".9" points="880,95 858,122 871,117 880,127 890,116 903,123"/>
+<polygon fill="#ecebff" opacity=".7" points="660,150 645,168 654,165 661,172 668,164 676,168"/>
+<path class="trail" d="M560,262 C640,250 700,235 760,215 S850,150 880,100" fill="none" stroke="#c792ea" stroke-width="2" stroke-linecap="round"/>
+<line x1="880" y1="95" x2="880" y2="76" stroke="#fff" stroke-width="2"/><polygon points="880,76 898,82 880,88" fill="#ff9e64"/>
+<polygon fill="#15133a" points="0,300 0,255 150,225 300,258 450,222 620,262 800,228 950,258 1100,232 1200,250 1200,300"/>
+<text x="70" y="98" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="58" font-weight="700" fill="#ffffff">Poonam Subre</text>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" fill="#d6ccff">
+<text class="t" x="72" y="140">I build AI agents that think, validate, and ship.</text>
+<text class="t t2" x="72" y="140">Multi-agent systems with humans in the loop.</text>
+<text class="t t3" x="72" y="140">RAG that is grounded in clean data.</text>
+</g>
+<text x="72" y="172" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" fill="#b3abea">AI / ML Engineer · Agentic AI · RAG · Data Engineering</text>
+</g></svg>
